@@ -1,0 +1,579 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Map>
+  <Tile LocX="0" LocY="0">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="0" LocY="1">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="0" LocY="2">
+    <X>2</X>
+    <Y>3</Y>
+  </Tile>
+  <Tile LocX="0" LocY="3">
+    <X>2</X>
+    <Y>3</Y>
+  </Tile>
+  <Tile LocX="0" LocY="4">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="0" LocY="5">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="0" LocY="6">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="0" LocY="7">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="0" LocY="8">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="0" LocY="9">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="0" LocY="10">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="0" LocY="11">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="1" LocY="0">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="1" LocY="1">
+    <X>2</X>
+    <Y>3</Y>
+  </Tile>
+  <Tile LocX="1" LocY="2">
+    <X>2</X>
+    <Y>3</Y>
+  </Tile>
+  <Tile LocX="1" LocY="3">
+    <X>2</X>
+    <Y>3</Y>
+  </Tile>
+  <Tile LocX="1" LocY="4">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="1" LocY="5">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="1" LocY="6">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="1" LocY="7">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="1" LocY="8">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="1" LocY="9">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="1" LocY="10">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="1" LocY="11">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="2" LocY="0">
+    <X>2</X>
+    <Y>3</Y>
+  </Tile>
+  <Tile LocX="2" LocY="1">
+    <X>2</X>
+    <Y>3</Y>
+  </Tile>
+  <Tile LocX="2" LocY="2">
+    <X>2</X>
+    <Y>3</Y>
+  </Tile>
+  <Tile LocX="2" LocY="3">
+    <X>2</X>
+    <Y>3</Y>
+  </Tile>
+  <Tile LocX="2" LocY="4">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="2" LocY="5">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="2" LocY="6">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="2" LocY="7">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="2" LocY="8">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="2" LocY="9">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="2" LocY="10">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="2" LocY="11">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="3" LocY="0">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="3" LocY="1">
+    <X>2</X>
+    <Y>3</Y>
+  </Tile>
+  <Tile LocX="3" LocY="2">
+    <X>2</X>
+    <Y>3</Y>
+  </Tile>
+  <Tile LocX="3" LocY="3">
+    <X>2</X>
+    <Y>3</Y>
+  </Tile>
+  <Tile LocX="3" LocY="4">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="3" LocY="5">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="3" LocY="6">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="3" LocY="7">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="3" LocY="8">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="3" LocY="9">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="3" LocY="10">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="3" LocY="11">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="4" LocY="0">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="4" LocY="1">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="4" LocY="2">
+    <X>2</X>
+    <Y>3</Y>
+  </Tile>
+  <Tile LocX="4" LocY="3">
+    <X>2</X>
+    <Y>3</Y>
+  </Tile>
+  <Tile LocX="4" LocY="4">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="4" LocY="5">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="4" LocY="6">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="4" LocY="7">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="4" LocY="8">
+    <X>6</X>
+    <Y>2</Y>
+  </Tile>
+  <Tile LocX="4" LocY="9">
+    <X>2</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="4" LocY="10">
+    <X>2</X>
+    <Y>1</Y>
+  </Tile>
+  <Tile LocX="4" LocY="11">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="5" LocY="0">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="5" LocY="1">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="5" LocY="2">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="5" LocY="3">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="5" LocY="4">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="5" LocY="5">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="5" LocY="6">
+    <X>6</X>
+    <Y>2</Y>
+  </Tile>
+  <Tile LocX="5" LocY="7">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="5" LocY="8">
+    <X>6</X>
+    <Y>2</Y>
+  </Tile>
+  <Tile LocX="5" LocY="9">
+    <X>6</X>
+    <Y>2</Y>
+  </Tile>
+  <Tile LocX="5" LocY="10">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="5" LocY="11">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="6" LocY="0">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="6" LocY="1">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="6" LocY="2">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="6" LocY="3">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="6" LocY="4">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="6" LocY="5">
+    <X>6</X>
+    <Y>2</Y>
+  </Tile>
+  <Tile LocX="6" LocY="6">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="6" LocY="7">
+    <X>6</X>
+    <Y>2</Y>
+  </Tile>
+  <Tile LocX="6" LocY="8">
+    <X>6</X>
+    <Y>2</Y>
+  </Tile>
+  <Tile LocX="6" LocY="9">
+    <X>4</X>
+    <Y>1</Y>
+  </Tile>
+  <Tile LocX="6" LocY="10">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="6" LocY="11">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="7" LocY="0">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="7" LocY="1">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="7" LocY="2">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="7" LocY="3">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="7" LocY="4">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="7" LocY="5">
+    <X>7</X>
+    <Y>2</Y>
+  </Tile>
+  <Tile LocX="7" LocY="6">
+    <X>6</X>
+    <Y>2</Y>
+  </Tile>
+  <Tile LocX="7" LocY="7">
+    <X>7</X>
+    <Y>2</Y>
+  </Tile>
+  <Tile LocX="7" LocY="8">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="7" LocY="9">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="7" LocY="10">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="7" LocY="11">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="8" LocY="0">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="8" LocY="1">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="8" LocY="2">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="8" LocY="3">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="8" LocY="4">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="8" LocY="5">
+    <X>7</X>
+    <Y>2</Y>
+  </Tile>
+  <Tile LocX="8" LocY="6">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="8" LocY="7">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="8" LocY="8">
+    <X>6</X>
+    <Y>2</Y>
+  </Tile>
+  <Tile LocX="8" LocY="9">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="8" LocY="10">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="8" LocY="11">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="9" LocY="0">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="9" LocY="1">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="9" LocY="2">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="9" LocY="3">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="9" LocY="4">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="9" LocY="5">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="9" LocY="6">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="9" LocY="7">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="9" LocY="8">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="9" LocY="9">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="9" LocY="10">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="9" LocY="11">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="10" LocY="0">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="10" LocY="1">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="10" LocY="2">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="10" LocY="3">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="10" LocY="4">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="10" LocY="5">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="10" LocY="6">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="10" LocY="7">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="10" LocY="8">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="10" LocY="9">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="10" LocY="10">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="10" LocY="11">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="11" LocY="0">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="11" LocY="1">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="11" LocY="2">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="11" LocY="3">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="11" LocY="4">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="11" LocY="5">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="11" LocY="6">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="11" LocY="7">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="11" LocY="8">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="11" LocY="9">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="11" LocY="10">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+  <Tile LocX="11" LocY="11">
+    <X>0</X>
+    <Y>0</Y>
+  </Tile>
+</Map>

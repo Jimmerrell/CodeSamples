@@ -1,0 +1,9 @@
+C:\Users\fullsail\Documents\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\bin\Debug\MD_MapEditor.exe.config
+C:\Users\fullsail\Documents\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\bin\Debug\MD_MapEditor.exe
+C:\Users\fullsail\Documents\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\bin\Debug\MD_MapEditor.pdb
+C:\Users\fullsail\Documents\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\obj\Debug\MD_MapEditor.csprojResolveAssemblyReference.cache
+C:\Users\fullsail\Documents\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\obj\Debug\MD_MapEditor.Form1.resources
+C:\Users\fullsail\Documents\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\obj\Debug\MD_MapEditor.Properties.Resources.resources
+C:\Users\fullsail\Documents\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\obj\Debug\MD_MapEditor.csproj.GenerateResource.Cache
+C:\Users\fullsail\Documents\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\obj\Debug\MD_MapEditor.exe
+C:\Users\fullsail\Documents\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\obj\Debug\MD_MapEditor.pdb

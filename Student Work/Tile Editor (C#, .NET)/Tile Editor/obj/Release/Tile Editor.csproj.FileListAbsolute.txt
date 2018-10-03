@@ -1,0 +1,30 @@
+C:\Users\fullsail\Documents\WTP\Tile Editor\Tile Editor\bin\Release\Tile Editor.exe.config
+C:\Users\fullsail\Documents\WTP\Tile Editor\Tile Editor\bin\Release\Tile Editor.exe
+C:\Users\fullsail\Documents\WTP\Tile Editor\Tile Editor\bin\Release\Tile Editor.pdb
+C:\Users\fullsail\Documents\WTP\Tile Editor\Tile Editor\obj\Release\Tile_Editor.Form1.resources
+C:\Users\fullsail\Documents\WTP\Tile Editor\Tile Editor\obj\Release\Tile_Editor.ModelessDialog.resources
+C:\Users\fullsail\Documents\WTP\Tile Editor\Tile Editor\obj\Release\Tile_Editor.Properties.Resources.resources
+C:\Users\fullsail\Documents\WTP\Tile Editor\Tile Editor\obj\Release\Tile Editor.csproj.GenerateResource.Cache
+C:\Users\fullsail\Documents\WTP\Tile Editor\Tile Editor\obj\Release\Tile Editor.exe
+C:\Users\fullsail\Documents\WTP\Tile Editor\Tile Editor\obj\Release\Tile Editor.pdb
+C:\Users\fullsail\Documents\FS Game Dev\WTP\Tile Editor\Tile Editor\bin\Release\Tile Editor.exe.config
+C:\Users\fullsail\Documents\FS Game Dev\WTP\Tile Editor\Tile Editor\obj\Release\Tile Editor.exe
+C:\Users\fullsail\Documents\FS Game Dev\WTP\Tile Editor\Tile Editor\obj\Release\Tile Editor.pdb
+C:\Users\fullsail\Documents\FS Game Dev\WTP\Tile Editor\Tile Editor\bin\Release\Tile Editor.exe
+C:\Users\fullsail\Documents\FS Game Dev\WTP\Tile Editor\Tile Editor\bin\Release\Tile Editor.pdb
+C:\Users\fullsail\Documents\FS Game Dev\WTP\Tile Editor\Tile Editor\obj\Release\Tile Editor.csprojResolveAssemblyReference.cache
+C:\Users\fullsail\Documents\FS Game Dev\WTP\Tile Editor\Tile Editor\obj\Release\Tile_Editor.Form1.resources
+C:\Users\fullsail\Documents\FS Game Dev\WTP\Tile Editor\Tile Editor\obj\Release\Tile_Editor.ModelessDialog.resources
+C:\Users\fullsail\Documents\FS Game Dev\WTP\Tile Editor\Tile Editor\obj\Release\Tile_Editor.Properties.Resources.resources
+C:\Users\fullsail\Documents\FS Game Dev\WTP\Tile Editor\Tile Editor\obj\Release\Tile Editor.csproj.GenerateResource.Cache
+E:\Game Dev BackUp\FS Game Dev\WindowsToolsProgramming\Tile Editor\Tile Editor\bin\Release\Tile Editor.exe.config
+E:\Game Dev BackUp\FS Game Dev\WindowsToolsProgramming\Tile Editor\Tile Editor\bin\Release\Tile Editor.exe
+E:\Game Dev BackUp\FS Game Dev\WindowsToolsProgramming\Tile Editor\Tile Editor\bin\Release\Tile Editor.pdb
+E:\Game Dev BackUp\FS Game Dev\WindowsToolsProgramming\Tile Editor\Tile Editor\obj\Release\Tile Editor.csprojAssemblyReference.cache
+E:\Game Dev BackUp\FS Game Dev\WindowsToolsProgramming\Tile Editor\Tile Editor\obj\Release\Tile_Editor.Form1.resources
+E:\Game Dev BackUp\FS Game Dev\WindowsToolsProgramming\Tile Editor\Tile Editor\obj\Release\Tile_Editor.ModelessDialog.resources
+E:\Game Dev BackUp\FS Game Dev\WindowsToolsProgramming\Tile Editor\Tile Editor\obj\Release\Tile_Editor.Properties.Resources.resources
+E:\Game Dev BackUp\FS Game Dev\WindowsToolsProgramming\Tile Editor\Tile Editor\obj\Release\Tile Editor.csproj.GenerateResource.cache
+E:\Game Dev BackUp\FS Game Dev\WindowsToolsProgramming\Tile Editor\Tile Editor\obj\Release\Tile Editor.csproj.CoreCompileInputs.cache
+E:\Game Dev BackUp\FS Game Dev\WindowsToolsProgramming\Tile Editor\Tile Editor\obj\Release\Tile Editor.exe
+E:\Game Dev BackUp\FS Game Dev\WindowsToolsProgramming\Tile Editor\Tile Editor\obj\Release\Tile Editor.pdb

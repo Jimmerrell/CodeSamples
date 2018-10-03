@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Map Width="6" Height="6">
+  <Tile LocX="1" LocY="0">
+    <x>0</x>
+    <y>0</y>
+  </Tile>
+  <Tile LocX="2" LocY="0">
+    <x>1</x>
+    <y>0</y>
+  </Tile>
+</Map>

@@ -1,0 +1,31 @@
+C:\Users\fullsail\Documents\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\bin\x86\Debug\MD_MapEditor.exe.config
+C:\Users\fullsail\Documents\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\bin\x86\Debug\MD_MapEditor.exe
+C:\Users\fullsail\Documents\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\bin\x86\Debug\MD_MapEditor.pdb
+C:\Users\fullsail\Documents\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\obj\x86\Debug\MD_MapEditor.MD_MapEditor.resources
+C:\Users\fullsail\Documents\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\obj\x86\Debug\MD_MapEditor.Properties.Resources.resources
+C:\Users\fullsail\Documents\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\obj\x86\Debug\MD_MapEditor.ScriptedEventEditor.resources
+C:\Users\fullsail\Documents\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\obj\x86\Debug\MD_MapEditor.csproj.GenerateResource.Cache
+C:\Users\fullsail\Documents\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\obj\x86\Debug\MD_MapEditor.exe
+C:\Users\fullsail\Documents\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\obj\x86\Debug\MD_MapEditor.pdb
+C:\Users\fullsail\Documents\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\obj\x86\Debug\MD_MapEditor.csprojResolveAssemblyReference.cache
+I:\Game Dev BackUp\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\bin\x86\Debug\MD_MapEditor.exe.config
+I:\Game Dev BackUp\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\obj\x86\Debug\MD_MapEditor.exe
+I:\Game Dev BackUp\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\obj\x86\Debug\MD_MapEditor.pdb
+E:\Game Dev BackUp\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\obj\x86\Debug\MD_MapEditor.MD_MapEditor.resources
+E:\Game Dev BackUp\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\obj\x86\Debug\MD_MapEditor.Properties.Resources.resources
+E:\Game Dev BackUp\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\obj\x86\Debug\MD_MapEditor.ScriptedEventEditor.resources
+E:\Game Dev BackUp\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\obj\x86\Debug\MD_MapEditor.csproj.GenerateResource.cache
+E:\Game Dev BackUp\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\obj\x86\Debug\MD_MapEditor.csproj.CoreCompileInputs.cache
+E:\Game Dev BackUp\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\obj\x86\Debug\MD_MapEditor.exe
+E:\Game Dev BackUp\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\obj\x86\Debug\MD_MapEditor.pdb
+E:\Game Dev BackUp\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\bin\x86\Debug\MD_MapEditor.exe.config
+E:\Game Dev BackUp\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\bin\x86\Debug\MD_MapEditor.exe
+E:\Game Dev BackUp\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\bin\x86\Debug\MD_MapEditor.pdb
+E:\Game Dev BackUp\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\bin\x86\Debug\Microsoft.DirectX.Direct3D.dll
+E:\Game Dev BackUp\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\bin\x86\Debug\Microsoft.DirectX.Direct3DX.dll
+E:\Game Dev BackUp\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\bin\x86\Debug\Microsoft.DirectX.dll
+E:\Game Dev BackUp\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\bin\x86\Debug\Microsoft.DirectX.xml
+E:\Game Dev BackUp\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\bin\x86\Debug\Microsoft.DirectX.Direct3D.xml
+E:\Game Dev BackUp\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\bin\x86\Debug\Microsoft.DirectX.Direct3DX.xml
+E:\Game Dev BackUp\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\obj\x86\Debug\MD_MapEditor.csprojAssemblyReference.cache
+E:\Game Dev BackUp\FS Game Dev\SGP\LocalMidnightDelivery\MD_MapEditor\MD_MapEditor\obj\x86\Debug\MD_MapEditor.csproj.CopyComplete
